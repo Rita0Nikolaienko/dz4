@@ -1,0 +1,45 @@
+body .font-500{
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    font-size: 20px;
+}
+.font-700{
+    font-weight: 700;
+    color: green;
+    font-size: 20px;
+}
+.font-300{
+    font-weight: 300;
+    color: red;
+    font-size: 20px;
+}
+.font-script{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    color: black;
+    font-size: 16px;
+}
+ul {
+    list-style: none;
+    text-align: center;
+    font-size: 20px;
+}
+ul .a{
+    display: inline-block;
+    margin: 20px;
+}
+.block{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 5px;
+}
+.block-1{
+    background-color: blue;
+}
+.block-2{
+    background-color: green;
+}
+.block-3{
+    background-color: orange;
+}
